@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pepesrz91/vue-practice/issues"
   },
-  "homepage": "https://github.com/pepesrz91/vue-practice#readme"
+  "homepage": "https://github.com/pepesrz91/vue-practice#readme",
+  "dependencies": {
+    "vue": "^2.5.16"
+  }
 }
