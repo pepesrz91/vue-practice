@@ -1,0 +1,19 @@
+{
+  "name": "vue",
+  "version": "1.0.0",
+  "description": "Getting startted with Vue.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pepesrz91/vue-practice.git"
+  },
+  "author": "Pepe Suarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pepesrz91/vue-practice/issues"
+  },
+  "homepage": "https://github.com/pepesrz91/vue-practice#readme"
+}
